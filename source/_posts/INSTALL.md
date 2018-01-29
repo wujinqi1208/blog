@@ -1,3 +1,7 @@
+---
+title: Ubuntu + Hexo博客搭建
+---
+
 # Hexo github 博客搭建
 
 ## 搭建nodejs
